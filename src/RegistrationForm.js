@@ -41,10 +41,10 @@ function RegistrationForm() {
       return;
     }
 
-    // Registration logic
-    // ... (handle registration logic here)
-
-    // Reset form
+   
+    
+    
+    
     setUsername("");
     setPassword("");
     setUsernameType("numeric");
